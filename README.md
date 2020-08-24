@@ -1,2 +1,1 @@
-# documentnode.io
-The documents and resources of the main website: https://documentnode.io
+﻿This repository contains the documents and resources of the main website (https://documentnode.io). Please feel free to create pull requests for improvements, or open issues if anything is confusing.
