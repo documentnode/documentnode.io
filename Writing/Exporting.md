@@ -1,8 +1,8 @@
-﻿# Exporting
+# Exporting
 
 Exporting your documents or projects is an essential step so that you can deliver the most appropriate format to your readers. One of the goals of Document Node is to make it extremely easy to convert your documents into different formats.
 
-At the moment, it can convert documents into as multi-page PDF files, single-page pictures, single-page PDF files for mobile devices, HTML files with all resources embedded. It can also export a writing project to a website, PDF files, or HTML files at one time. More exporting formats will be developed gradually, please keep an eye on it.
+At the moment, it can convert documents into as multi-page PDF files, single-page pictures, single-page PDF files for mobile devices, HTML files with all resources embedded, and EPUB files. It can also export a writing project to a website, PDF files, HTML files, or an EPUB file at one time. More exporting formats will be developed gradually, please keep an eye on it.
 
 
 ## Save document as PDF
@@ -47,7 +47,7 @@ Give it a filename, choose a location on the disk, choose a target device, and s
 
 ## Save document as HTML
 
-### Quick save as HTML
+### Quicksave as HTML
 
 If you want to quickly save the current document as an HTML file with all resources embedded, press the keyboard shortcut `Command + Alt + Shift + H` (`Ctrl + Alt + Shift + H` on Windows and Linux), and then you can save the HTML file directly.
 
@@ -60,6 +60,31 @@ Your document content with a beautiful preview style can be saved as a single HT
 ![Save as HTML options](screen-1.3-save-as-html-options.png)
 
 Give it a filename, choose a location on the disk, choose a target device, and set margins, you will get your single-page picture exported right away. Next time when you want to do quick export, the same settings will be applied. Just press `Command + Shift + P` on macOS (`Ctrl + Shift + P` on Windows and Linux), and then press `Enter` key. It will be done within one second.
+
+## Save document as EPUB
+
+### Quicksave as EPUB
+
+If you want to quickly save the current document as an EPUB file, press the keyboard shortcut `Command + Alt + Shift + E` (`Ctrl + Alt + Shift + E` on Windows and Linux), and then you can save the EPUB file directly.
+
+Or select menu `File` -> `Save as EPUB`, it will do the same quick export as well.
+
+### Save as EPUB options
+
+Fill in details of the EPUB file in the "Save Document As" dialogue.
+
+* Filename: The EPUB file name
+* Save location: The directory where the EPUB file should be saved
+* Book title: The EPUB book title
+* Description: The description of the EPUB book, which can be input as multiple lines
+* Authors: Multiple authors are separated by line breaks; last name and first name is separated by a comma
+* Cover image: Document Node can generate one for you automatically or use a custom image you provide.
+
+![screen-save-as-epub](screen-save-as-epub.png)
+
+Once the EPUB file is created, you can open it using any EPUB readers on your devices.
+
+![screen-exported-epub-preview](screen-exported-epub-preview.png)
 
 ## Export project as PDF files
 
@@ -102,6 +127,16 @@ And then, choose a location where you want to save the HTML files.
 ![screen-dialog-export-html-options](screen-dialog-export-html-options.png)
 
 If you want to open the HTML folder after exporting, please tick the "**Open the HTML folder after exporting**" checkbox.
+
+## Export project as EPUB
+
+If you want to export all documents of a project as a single EPUB file, click the "**Export project**" icon on the top right toolbar, and then select the "**Epub**" tab.
+
+![screen-export-project-as-epub](screen-export-project-as-epub.png)
+
+And then, fill in the details of the EPUB file.
+
+If you want to open the EPUB file after exporting, please tick the "**Open the EPUB file after exporting**" checkbox.
 
 ## Export project as a website
 
