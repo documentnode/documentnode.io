@@ -1,4 +1,4 @@
-﻿# Version 1.3.7 (stable)
+# Version 1.3.7 (stable)
 
 ## Reorder Mind Map via Drag-and-drop
 
@@ -46,6 +46,6 @@ Some necessary diagnostic information such as application version number, platfo
 * Improved the RichText editor toolbar to keep the 'More' toolbar open until we click the '...' button again to hide it
 * Added a system tray icon with a few menu items
 * Fixed Markdown parsing issues when it contains Emoji Unicode characters
-* Improved UI layout of the 'Appearance Editing' dialogue and the 'Preview Style Customisation' dialogue
+* Improved UI layout of the 'Appearance Editing' dialogue and the 'Preview Style Customization' dialogue
 * When the text cursor is at the bottom of the text editor, show the "Quick Insert" popup upward
 * Fixed an issue of syntax highlighting for PHP code snippets

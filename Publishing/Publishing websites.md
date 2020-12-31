@@ -1,4 +1,4 @@
-﻿# Publishing websites
+# Publishing websites
 
 Once you finish creating or modifying your website, click the `Publish` button and give it a subdomain and a custom domain (optional), your website will be published in a few seconds.
 
@@ -12,6 +12,6 @@ A valid subdomain is required to publish websites to Document Node hosting. It c
 
 ## Custom domain
 
-A custom domain is optional and can only be specified by users who have subscribed to at least `Pro` plan.
+A custom domain is optional and can only be specified by users who have subscribed to at least `Creative` plan.
 
 For more details about how to configure your DNS record, please head to the [Custom domain](Custom%20domain.md) page.

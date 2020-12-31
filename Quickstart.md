@@ -1,4 +1,4 @@
-﻿# Quickstart
+# Quickstart
 
 Document Node simplifies the process from writing to publishing. Unlike all existing solutions available on the market, Document Node allows you to concentrate on your content from the beginning, and get a beautiful website, as well as other formats like PDF or eBook and so on, automatically from your document folder.
 
@@ -12,7 +12,7 @@ On macOS, once you have downloaded the DMG file, double-click on it.
 
 ![Screenshot of DMG Finder](screenshot_dmg.png)
 
-And then, drag and drop Document Node to the `/Applicatoins` folder.
+And then, drag and drop Document Node to the `/Applications` folder.
 
 ### On Windows
 
@@ -36,7 +36,7 @@ We are trying hard not to invent any new terminologies so that users can start b
 
 > A **project** in Document Node is just an ordinary folder on your disk, where you put your plaintext content in.
 > 
-> You can organise your plaintext files into different folders for different purposes. For example, one folder for your company website, the other folder for your new book.
+> You can organize your plaintext files into different folders for different purposes. For example, one folder for your company website, the other folder for your new book.
 > 
 > In Document Node, we call such top-level content folders **projects**.
 
@@ -55,7 +55,7 @@ The website will be opened in your web browser. From there, you can change every
 * Page styles
 * Creating new pages
 
-There are four modes you can use to customise your pages. In `Designing Mode`, you will be able to add/remove/change page blocks. In `Editing Mode`, you can change page text via inline-editing, and change text links, images, and so on in popups. In `Styling Mode`, you can modify colour, size, and background of page elements.
+There are four modes you can use to customize your pages. In `Designing Mode`, you will be able to add/remove/change page blocks. In `Editing Mode`, you can change page text via inline-editing, and change text links, images, and so on in popups. In `Styling Mode`, you can modify color, size, and background of page elements.
 
 ![screen-site-toolbar-desc](screen-site-toolbar-desc.png)
 

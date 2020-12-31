@@ -1,8 +1,8 @@
-﻿# Version 1.3.13 (stable)
+# Version 1.3.13 (stable)
 
 ![screen-doc-info-popups](screen-doc-info-popups.png)
 
-We continued polishing the user experience of Docment Node to make it better every day. If you spot any issues or have any ideas, please don't hesitate to let us know.
+We continued polishing the user experience of Document Node to make it better every day. If you spot any issues or have any ideas, please don't hesitate to let us know.
 
 ## Made the Deletion Operations More Secure
 
@@ -32,7 +32,7 @@ We also created a new Mind Map exporting popup to replace the old context menu.
 
 ## Miscellaneous Improvements & Fixes
 
-* Fixed a cursor colour issue in Typewriter focus mode
+* Fixed a cursor color issue in Typewriter focus mode
 * When changing the "`Highlight current line`" setting in `Preferences` dialogue, the text editor should update accordingly
 * Fixed wrong cursor shapes sometimes happened outside of the text editor
 * Fixed text editor jumping issues when we perform Undo/Redo actions

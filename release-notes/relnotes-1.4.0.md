@@ -8,7 +8,7 @@ EPUB, short for electronic publication, is a popular file format used for storin
 
 From this version, we can generate Epub files from one or more documents in Document Node easily.
 
-A document can be saved as an Epub file directly. In the "Save Document As" dialogue, select the "EPUB" tab, fill in the details of the EPUB file, and click "Save".
+A document can be saved as an EPUB file directly. In the "Save Document As" dialogue, select the "EPUB" tab, fill in the details of the EPUB file, and click "Save".
 
 ![screen-save-as-epub](screen-save-as-epub.png)
 

@@ -1,4 +1,4 @@
-﻿# Version 1.2.127 (beta)
+# Version 1.2.127 (beta)
 
 ## Find/Replace in text editors
 
@@ -12,7 +12,7 @@ In the **'Replace'** panel, we can replace the currently matched and selected te
 
 All relevant shortcuts are supported on all platforms. Please see the details from the table below:
 
-| Acrtion/Shortcuts  | macOS | Windows | KDE Plasma | GNOME
+| Action/Shortcuts  | macOS | Windows | KDE Plasma | GNOME
 | ------------- | ------------- | ---- | ---- | ---- |
 | Find  | `Cmd+F` | `Ctrl+F` | `Ctrl+F` | `Ctrl+F` |
 | Find Next  | `Cmd+G`  | `F3`, `Ctrl+G` | `F3` | `F3`, `Ctrl+G` |

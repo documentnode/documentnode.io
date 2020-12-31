@@ -1,4 +1,4 @@
-﻿# Version 1.3.11 (stable)
+# Version 1.3.11 (stable)
 
 ## Improved the image thumbnails popup
 
@@ -33,7 +33,7 @@ A few security settings have been applied in Document Node hosting service.
 ## Miscellaneous Improvements & Fixes
 
 * Improved the font style of text editor line numbers
-* In Editor-only mode, use the same colour of text editor background in the window title bar on macOS
+* In Editor-only mode, use the same color of text editor background in the window title bar on macOS
 * Don't empty folders in the docs navigation, Table of Contents, and listing page blocks
 * Improved text editor performance while typing
 * Improved the moving operation by drag-and-drop on the projects tree

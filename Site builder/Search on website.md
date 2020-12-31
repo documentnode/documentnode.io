@@ -1,6 +1,6 @@
-﻿# Search on website
+# Search on website
 
-The websites exported from Document Node have full-text searchability built-in. It works out of the box without any configuration.
+The websites exported from Document Node have full-text search-ability built-in. It works out of the box without any configuration.
 
 From any one of the web pages, double-tap `Shift` key, the search box will popup. Type any keywords as you like, and use `Up` or `Down` key to select a result, then press `Enter` key to open the selected result page.
 
@@ -36,7 +36,7 @@ It is also worth noting that, when a search term contains a wildcard, no stemmin
 
 ## Term boosts
 
-In multi-term searches, a single term may be important than others. For these cases, the search engine supports term level boosts. Any document that matches a boosted term will get a higher relevance score, and appear higher up in the results. A boost is applied by appending a caret (^) and then a positive integer to a term.
+In multi-term searches, a single term may be important than others. For these cases, the search engine supports term level boosts. Any document that matches a boosted term will get a higher relevance score, and appear higher up in the results. A boost is applied by appending a caret (`^`) and then a positive integer to a term.
 
     foo^10 bar
 
@@ -46,7 +46,7 @@ The above example weights the term "foo" 10 times higher than the term "bar". Th
 
 ## Fuzzy matches
 
-The search engine supports fuzzy matching search terms in documents, which can be helpful if the spelling of a term is unclear, or to increase the number of search results that are returned. The amount of fuzziness to allow when searching can also be controlled. Fuzziness is applied by appending a tilde (~) and then a positive integer to a term. The following search matches all documents that have a word within 1 edit distance of “foo”:
+The search engine supports fuzzy matching search terms in documents, which can be helpful if the spelling of a term is unclear, or to increase the number of search results that are returned. The amount of fuzziness to allow when searching can also be controlled. Fuzziness is applied by appending a tilde (`~`) and then a positive integer to a term. The following search matches all documents that have a word within 1 edit distance of “foo”:
 
     foo~1
     
@@ -54,7 +54,7 @@ An edit distance of 1 allows words to match if either adding, removing, changing
 
 ## Term presence
 
-By default, the search engine combines multiple terms together in a search with a logical **OR**. That is, a search for "foo bar" will match documents that contain "foo" or contain "bar" or contain both. This behaviour is controllable at the term level, i.e. the presence of each term in matching documents can be specified. By default, each term is optional in a matching document, though a document must have at least one matching term. It is possible to specify that a term must be present in matching documents, or that it must be absent in matching documents.
+By default, the search engine combines multiple terms together in a search with a logical **OR**. That is, a search for "foo bar" will match documents that contain "foo" or contain "bar" or contain both. This behavior is controllable at the term level, i.e. the presence of each term in matching documents can be specified. By default, each term is optional in a matching document, though a document must have at least one matching term. It is possible to specify that a term must be present in matching documents, or that it must be absent in matching documents.
 
 To indicate that a term must be present in matching documents the term should be prefixed with a plus (+) and to indicate that a term must be absent the term should be prefixed with a minus (-). Without either prefix the term’s presence in matching documents is optional.
 

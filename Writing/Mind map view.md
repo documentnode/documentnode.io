@@ -1,10 +1,10 @@
-﻿# Mind map view
+# Mind map view
 
 A mind map represents ideas and concepts in a simple graphical way that resembles much more closely how your brain works. It maps your mind.
 
-It helps you structure information, better analyse and generate new ideas. Mind mapping avoids linear thinking and boosts your creativity. Best of all, it's straightforward and fun!
+It helps you structure information, better analyze and generate new ideas. Mind mapping avoids linear thinking and boosts your creativity. Best of all, it's straightforward and fun!
 
-Document Node has the full support of Mind Map for both the **Markdown** and **Rich Text** documents. Essentially, the skeleton of an article is a mind map already, we just need to present it properly, and modify.
+Document Node has the full support of Mind Map for both the **Markdown** and **Rich Text** documents. Essentially, the skeleton of an article is a mind map already, we just need to present it properly, and modify as needed.
 
 ## Turn on the Mind Map view
 
@@ -60,7 +60,7 @@ From the toolbar, we can quickly change the Mind Map theme for a document from t
 
 ![mindmap-switch-theme](mindmap-switch-theme.png)
 
-## Mind Map Theme Customisation
+## Mind Map Theme Customization
 
 We believe that when we concentrate on the content, we shouldn't care about the styles and themes. Unlike most of the Mind Map software, themes can be managed separately in Document Node, instead of allowing users to change style properties of each node.
 

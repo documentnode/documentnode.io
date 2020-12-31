@@ -1,4 +1,4 @@
-﻿# Version 1.1.110 (beta)
+# Version 1.1.110 (beta)
 
 ## Directory listing page (simple but powerful)
 
@@ -23,7 +23,7 @@ All directory listing page blocks will only show the first page initially. When 
 
 ## Single-clicking to preview documents
 
-We improved the default clicking behaviours on the left project files tree. Now single-clicking on a document will open it as a preview tab in the editor area. Double-clicking will open it in the normal editing mode.
+We improved the default clicking behaviors on the left project files tree. Now single-clicking on a document will open it as a preview tab in the editor area. Double-clicking will open it in the normal editing mode.
 
 Only one preview tab will be opened at any time, which means single-clicking on different documents will always show document preview in the same editor tab.
 

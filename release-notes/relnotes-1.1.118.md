@@ -1,4 +1,4 @@
-﻿# Version 1.1.118 (beta)
+# Version 1.1.118 (beta)
 
 ## Links, images, lists and tables
 
@@ -28,7 +28,7 @@ The beauty of the Document Node rich text editor is that you can publish your wr
 
 ![screen-run-rich-text-as-webpage](screen-run-rich-text-as-webpage.png)
 
-We optimised the generation of web pages from the rich text documents. Just concentrate on your content, and get a website immediately and automatically.
+We optimized the generation of web pages from the rich text documents. Just concentrate on your content, and get a website immediately and automatically.
 
 ## Improved print preview dialogue
 

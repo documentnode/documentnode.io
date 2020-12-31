@@ -1,8 +1,8 @@
-﻿# Version 1.2.130 (beta)
+# Version 1.2.130 (beta)
 
 ## Full-text search built-in
 
-In this version, we added the full-text searchability for the websites exported from Document Node. It's built-in and works out of the box without any configuration.
+In this version, we added the full-text search-ability for the websites exported from Document Node. It's built-in and works out of the box without any configuration.
 
 ![screencast-full-text-search](screencast-full-text-search.gif)
 For more information, please see the document: https://documentnode.io/site-builder/full-text-search
@@ -17,6 +17,6 @@ We will implement full-text inside the desktop software as well in the future. I
 
 ## Miscellaneous improvements & fixes
 
-* Fixed issues of normalising image paths and resource paths when generating web pages
+* Fixed issues of normalizing image paths and resource paths when generating web pages
 * Fixed an issue of Markdown syntax highlighting delay
 * Fixed an issue of PDF exporting to make sure the light theme is used for code blocks highlight

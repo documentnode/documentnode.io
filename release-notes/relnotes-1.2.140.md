@@ -1,4 +1,4 @@
-﻿# Version 1.2.140 (beta)
+# Version 1.2.140 (beta)
 
 ## New page blocks for making landing pages
 
@@ -30,9 +30,9 @@ Sometimes, we just need a simple footer with less information, for example, on a
 
 ![screen-page-block-footer-info-simplified](screen-page-block-footer-info-simplified.png)
 
-**Custimisible, as always**
+**Customizable, as always**
 
-As always, everything, including texts, images, links, text colour, background colour, background images, and so on, can be modified easily using the offline site builder.
+As always, everything, including texts, images, links, text color, background color, background images, and so on, can be modified easily using the offline site builder.
 
 All new page blocks introduced in this version are mobile-friendly.
 

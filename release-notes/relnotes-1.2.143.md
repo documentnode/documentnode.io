@@ -1,4 +1,4 @@
-﻿# Version 1.2.143 (beta)
+# Version 1.2.143 (beta)
 
 ![screen-hero-search-box-cover](screen-hero-search-box-cover.png)
 
@@ -12,7 +12,7 @@ We created a top navigation block with a search box, which can be used in websit
 
 ## Hero page block with search box
 
-We added a new hero page block with a search box. It's a great condidate for creating `Help Centre` pages.
+We added a new hero page block with a search box. It's a great candidate for creating `Help Centre` pages.
 
 ![screen-hero-searchbox](screen-hero-searchbox.png)
 

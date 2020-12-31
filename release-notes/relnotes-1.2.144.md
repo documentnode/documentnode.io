@@ -1,4 +1,4 @@
-﻿# Version 1.2.144 (beta)
+# Version 1.2.144 (beta)
 
 ![screencast-change-global-author-avatar](screencast-change-global-author-avatar.gif)
 
@@ -16,8 +16,8 @@ This setting can be overridden by the specific page settings, as you may already
 
 We can also change the content template and directory template. A content template is used to generate a web page from a Markdown file or rich text file. A directory template is used to create a web page from a folder.
 
-While more and more content and directory templates will be added gradually, we will also make it highly customisable so that users can easily create templates by themselves, using HTML/CSS/JavaScript.
+While more and more content and directory templates will be added gradually, we will also make it highly customizable so that users can easily create templates by themselves, using HTML/CSS/JavaScript.
 
-Additionally, from this dialogue, we can inject arbitray code inside &lt;head&gt;&lt;/head&gt; or &lt;body&gt;&lt;/body&gt; from this dialogue.
+Additionally, from this dialogue, we can inject arbitrary code inside `<head></head> or <body></body>` from this dialogue.
 
-This dialogue will be further improved to add more global site settings. Please stay tuned.
+This dialog will be further improved to add more global site settings. Please stay tuned.

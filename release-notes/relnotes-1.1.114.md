@@ -1,11 +1,11 @@
-﻿# Version 1.1.114 (beta)
+# Version 1.1.114 (beta)
 
-## Github Flavoured Markdown
+## Github Flavored Markdown
 
-A few extensions provided by Github Flavoured Markdown are beneficial for writing documentation. Specifically, they are:
+A few extensions provided by Github Flavored Markdown are beneficial for writing documentation. Specifically, they are:
 
 * tables
-* tasklist items
+* task-list items
 * strikethrough texts
 * extended auto-links
 
@@ -13,7 +13,7 @@ In this version, we enabled the GFM parser in the application, so the extended M
 
 * Strikethrough highlighting in the Markdown editor and preview panel
 * Tables highlighting in the Markdown editor
-* Tasklist style in the preview panel and generated web page
+* Task-list style in the preview panel and generated web page
 * Auto-links highlighting in the Markdown editor
 
 They will be available next week.

@@ -1,4 +1,4 @@
-﻿# Version 1.3.0 (beta)
+# Version 1.3.0 (beta)
 
 We are so excited to announce that **Document Node 1.3** is now available for everyone to download! This is a major upgrade, which contains new powerful functionalities and heaps of improvements on fine details.
 
@@ -70,7 +70,7 @@ If the image description starts with `@`, it means showing the description under
 
 ![Image Settings Button](screen-1.3-image-settings-button.png)
 
-Click the **Settings** button, you will be able to manage the image settings in a dialogue.
+Click the **Settings** button, you will be able to manage the image settings in a dialog.
 
 ![Image Settings Dialog](screen-1.3-image-settings-dialog.png)
 

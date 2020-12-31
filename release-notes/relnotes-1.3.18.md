@@ -1,4 +1,4 @@
-﻿# Version 1.3.18 (stable)
+# Version 1.3.18 (stable)
 
 ## Progress Message Popup
 
@@ -8,7 +8,7 @@ To eliminate the confusion, we added a progress message popup that shows in the 
 
 ![Screencast-progress-msg-popup](Screencast-progress-msg-popup.gif)
 
-It can be hidden when we click the "Minimise" button on the top right corner.
+It can be hidden when we click the "Minimize" button on the top right corner.
 
 ## New 'Save As' Icon in Text Editor
 
@@ -31,5 +31,5 @@ In this version, we added a new 'Save As' icon on the top right corner of the te
 * Changed slogan from 'Open Document Node, Inspiration Unfold' to 'Writing & Website Publishing Made Easy.'
 * Fixed issues of dragging and dropping images from the projects tree to the text editor
 * Fixed issues of focus mode switching
-* Improved the selection colours of the left panel
+* Improved the selection colors of the left panel
 * Fixed issues of suggesting a file name when saving a document as PDF/HTML if the preview panel is not shown

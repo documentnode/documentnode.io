@@ -1,4 +1,4 @@
-﻿# Version 1.1.109 (beta)
+# Version 1.1.109 (beta)
 
 ## Security infrastructure for publishing
 
@@ -17,7 +17,7 @@ In the future, we will develop features for publishing your content websites to 
 * Fixed a blank-page issue when running a project located in a network drive
 * Fixed display issues of editor tabs when document titles are too long
 * Improved the images popup by sorting them by last modified time, and skipping images in output folders
-* Improved folder icons by using a different colour to distinguish output folders from regular folders
+* Improved folder icons by using a different color to distinguish output folders from regular folders
 * Fixed syntax highlight issues for list items
 * Improved the auto-creation of list item prefixes
 * Improved code block style issues in the preview panel

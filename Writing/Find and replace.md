@@ -1,4 +1,4 @@
-﻿# Find and replace
+# Find and replace
 
 We often need to find or replace text in a text editor. In Document Node, the "**Find/Replace**" feature is available for both the Markdown editor and Rich Text editor.
 
@@ -20,7 +20,7 @@ After you input the keyword in the "**Find**" text box and new text in the "**Re
 
 All relevant shortcuts are supported on all platforms. Please see the details from the table below:
 
-| Acrtion/Shortcuts  | macOS | Windows | KDE Plasma | GNOME
+| Action/Shortcuts  | macOS | Windows | KDE Plasma | GNOME
 | ------------- | ------------- | ---- | ---- | ---- |
 | Find  | `Cmd+F` | `Ctrl+F` | `Ctrl+F` | `Ctrl+F` |
 | Find Next  | `Cmd+G`  | `F3`, `Ctrl+G` | `F3` | `F3`, `Ctrl+G` |

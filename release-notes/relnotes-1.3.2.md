@@ -1,4 +1,4 @@
-﻿# Version 1.3.2 (stable)
+# Version 1.3.2 (stable)
 
 Good news! We just adjusted the pricing of the `Essential` plan to as low as **$3 per month**, billed annually (or $5 per month, billed monthly).
 
@@ -6,7 +6,7 @@ If you don't need to build and publish websites, then the `Essential` plan is pe
 
 The `Essential` plan includes both the Markdown editor and rich text editor, Mind Map editing, Markdown table editing, auto-complete, quick image settings, taking screenshots, focus mode, multiple projects. You can use all the application appearances and built-in preview styles. You can also export your documents as PDF files and pictures.
 
-Additionally, everything can be customised. The application appearance can be customised in JSON, and the preview style can be customised in CSS, and the Mind Map themes can be customised in JSON.
+Additionally, everything can be customized. The application appearance can be customized in JSON, and the preview style can be customized in CSS, and the Mind Map themes can be customized in JSON.
 
 ## Improved the Image Settings
 

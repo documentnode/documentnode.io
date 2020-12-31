@@ -1,4 +1,4 @@
-﻿# Version 1.2.128 (beta)
+# Version 1.2.128 (beta)
 
 ![screen-welcome-page](screen-welcome-page.png)
 
@@ -14,7 +14,7 @@ On Windows, you will download an MSI installer. Double-click the MSI file and fo
 
 On Linux, you will download an AppImage file, which is similar to an App file on macOS. Just give the AppImage file executable permission, and then double-click it to open Document Node.
 
-Next step, we will focus on polishing our documentation, finalising the first stable version, and developing new features for the next major release.
+Next step, we will focus on polishing our documentation, finalizing the first stable version, and developing new features for the next major release.
 
 Today's version is a minor update, and please see the improvements and bug fixes below.
 

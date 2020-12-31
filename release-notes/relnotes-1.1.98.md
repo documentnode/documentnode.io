@@ -1,4 +1,4 @@
-﻿# Version 1.1.98 (alpha)
+# Version 1.1.98 (alpha)
 
 ## Danish language support
 
@@ -16,7 +16,7 @@ It's the same on Windows. Just use a different shortcut `Alt+PrintScreen`.
 
 When you only have a few documents, everything is fine. But when you have a few hundreds or thousands of documents, you may still want to run a website quickly from Document Node, not wait for processing all the files until you can see a web page.
 
-This week, we have optimised the performance of launching a website from a big documents folder. We tested on a folder with ~800 documents, and each one has about 17000 characters. The website can be launched in 3 seconds.
+This week, we have optimized the performance of launching a website from a big documents folder. We tested on a folder with ~800 documents, and each one has about 17000 characters. The website can be launched in 3 seconds.
 
 ## Improved document links
 
@@ -31,8 +31,8 @@ Clicking on a document link on the live website will navigate to the correspondi
 * Improved inline code style in preview
 * Fixed UI scaling issue on Fedora 29
 * Added a shortcut `F2` for renaming files/folders
-* Optimised the performance of opening projects with too many files
-* Optimised the performance of launching a website from a big project
+* Optimized the performance of opening projects with too many files
+* Optimized the performance of launching a website from a big project
 * Fixed translation issues on the progress bar of launching a website
 * Fixed issues of copying text from Document Node and pasting to other applications
 * Fixed issues of showing empty pages when starting a web page for a file with special characters in the filename

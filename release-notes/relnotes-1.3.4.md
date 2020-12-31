@@ -1,4 +1,4 @@
-﻿# Version 1.3.4 (stable)
+# Version 1.3.4 (stable)
 
 ## Decent and Elegant Mind Map View
 
@@ -59,7 +59,7 @@ If the maximum content length of a Markdown table row is less than 80, the table
 
 ## Miscellaneous Improvements & Fixes
 
-* Fixed the colour issue of progress message on the bottom bar on Dark mode
+* Fixed the color issue of progress message on the bottom bar on Dark mode
 * Updated link texts to "**Create empty projects**" and "Open folder as project..." on the welcome page
 * Fixed issues when parsing special characters in Markdown
 * Fixed Copy/Paste issues in the RichText editor

@@ -1,4 +1,4 @@
-﻿# Rich text editor
+# Rich text editor
 
 Sometimes, the Rich Text editor may be a better choice for writing. For example, when we edit a table directly without using the plaintext table syntax, or to have a two-column text block.
 
@@ -16,33 +16,33 @@ After that, the System Font dialogue will pop up. You can choose a font availabl
 
 ![screen-system-font-mac](../release-notes/screen-system-font-mac.png)
 
-## Text colour
+## Text color
 
-To change the text colour, click the "**Text colour**" icon from the Rich Text toolbar.
+To change the text color, click the "**Text color**" icon from the Rich Text toolbar.
 
 ![screen-richtext-text-color](screen-richtext-text-color.png)
 
-The system colour dialogue will be shown, and then you can choose a different text colour from there.
+The system color dialogue will be shown, and then you can choose a different text color from there.
 
-Depending on your operating system, the colour dialogue may look like this on macOS:
+Depending on your operating system, the color dialogue may look like this on macOS:
 
 ![screen-color-dialog-mac](screen-color-dialog-mac.png)
 
-The colour dialogue on Windows may look like this:
+The color dialogue on Windows may look like this:
 
 ![screen-color-dialog-windows](screen-color-dialog-windows.png)
 
-And the colour dialogue on Ubuntu may look like this:
+And the color dialogue on Ubuntu may look like this:
 
 ![screen-color-dialog-ubuntu](screen-color-dialog-ubuntu.png)
 
 ## Text background
 
-To change text colour, click the "**Text background**" icon from the Rich Text toolbar.
+To change text color, click the "**Text background**" icon from the Rich Text toolbar.
 
 ![screen-richtext-text-background](screen-richtext-text-background.png)
 
-The system colour dialogue will be shown, and then you can choose a different text background from there.
+The system color dialogue will be shown, and then you can choose a different text background from there.
 
 ## Text style
 

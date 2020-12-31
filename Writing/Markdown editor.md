@@ -1,4 +1,4 @@
-﻿# Markdown editor
+# Markdown editor
 
 ## What is Markdown?
 
@@ -12,7 +12,7 @@ Want to [learn Markdown in 60 seconds](https://commonmark.org/help/)?
 
 [CommonMark](https://commonmark.org/) proposes a standard, unambiguous syntax specification for Markdown, along with a suite of comprehensive tests to validate Markdown implementations against the specification.
 
-### Github Flavoured Markdown
+### Github Flavored Markdown
 
 GitHub.com uses a version of the Markdown syntax that provides an additional set of useful features:
 
@@ -21,11 +21,11 @@ GitHub.com uses a version of the Markdown syntax that provides an additional set
 * Strikethrough texts
 * Extended auto-links
 
-Document Node supports the core features of CommonMark as well as the extended Github Flavoured Markdown. With auto-suggestion and syntax highlighting, writing using Document Node is definitely a joy.
+Document Node supports the core features of CommonMark as well as the extended Github Flavored Markdown. With auto-suggestion and syntax highlighting, writing using Document Node is definitely a joy.
 
 ## Table Editing
 
-The intention of Markdown is to minimise the formatting burden while writing and keep the content as plaintext for easy to read and share. But, when it comes to tables, things are a bit embarrassing.
+The intention of Markdown is to minimize the formatting burden while writing and keep the content as plaintext for easy to read and share. But, when it comes to tables, things are a bit embarrassing.
 
 In nature, tables are structured into rows and columns and heavily depend on the format to visually present the data. It's hard to manage in plain text. Perhaps that's the reason why the core [CommonMark specification](https://spec.commonmark.org/current/) doesn't include tables at all.
 
@@ -57,21 +57,21 @@ When you open the "Preview" pane on the right side, you can see what your Markdo
 
 ![screen-side-by-side-preview](screen-side-by-side-preview.png)
 
-Changes will be synchronised to the preview pane automatically. Scrolling in the Markdown editor will scroll on the preview pane at the same time.
+Changes will be synchronized to the preview pane automatically. Scrolling in the Markdown editor will scroll on the preview pane at the same time.
 
 Clicking the PDF icon on the header of the preview pane, we can quickly export the current document as a PDF file.
 
-## Synchronising scroll bar
+## Synchronizing scroll bar
 
 While you are writing at the bottom of your text editor in Document Node, you often want to switch to your web browser and see the current sentence on the page. 
 
-With the feature of synchronising the scroll bar position between the text editor and the web page, we don't have to scroll to bottom any more manually.
+With the feature of synchronizing the scroll bar position between the text editor and the web page, we don't have to scroll to bottom any more manually.
 
 The same feature is available in the [Rich text editor](Rich%20text%20editor.md) as well.
 
 ## Syntax highlight
 
-In addition to highlighting basic Markdown syntax, the Markdown editor can highlight sourcecode fragments as well. With a generic syntax highlighting engine, Document Node supports the highlighting of 310 languages.
+In addition to highlighting basic Markdown syntax, the Markdown editor can highlight source-code fragments as well. With a generic syntax highlighting engine, Document Node supports the highlighting of 310 languages.
 
 ![screen-kotlin-highlighting](../release-notes/screen-kotlin-highlighting.png)
 

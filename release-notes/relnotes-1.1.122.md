@@ -1,4 +1,4 @@
-﻿# Version 1.1.122 (beta)
+# Version 1.1.122 (beta)
 
 ![screen-toc-page-block](screen-toc-page-block.png)
 
@@ -34,4 +34,4 @@ Just add the block to your page, then done! All documents in your project will b
 
 * Improved the site builder toolbar to show the 'Page Template' button directly for directory and content pages without the need to enable Designing mode
 * Fixed an issue of the directory page so that it can list all descendant documents of the folder
-* Optimised the side-by-side preview performance to make sure it never impacts keyboard typing
+* Optimized the side-by-side preview performance to make sure it never impacts keyboard typing

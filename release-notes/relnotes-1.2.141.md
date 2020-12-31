@@ -1,4 +1,4 @@
-﻿# Version 1.2.141 (beta)
+# Version 1.2.141 (beta)
 
 ![screencast-use-image-chooser](screencast-use-image-chooser.gif)
 
@@ -33,6 +33,6 @@ If you want to bring the deleted elements back, simply click elsewhere of the pa
 ## Miscellaneous improvements & fixes
 
 * Fixed issues of creating custom pages with one or more parent folders
-* Fixed the default background colour issue of blog cover images
+* Fixed the default background color issue of blog cover images
 * Fixed issues of Unicode characters in the anchors of Table of Contents (TOC)
 * Fixed an issue of site builder shortcuts during inline editing

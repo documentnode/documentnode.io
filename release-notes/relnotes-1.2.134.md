@@ -1,4 +1,4 @@
-﻿# Version 1.2.134 (beta)
+# Version 1.2.134 (beta)
 
 ## Improvements for page block data editors
 
@@ -33,6 +33,6 @@ We added a new menu item: `Help` -> `Markdown Quick Reference...`, linking to th
 * Added a 'Draft' icon to the blog title page block if it's in 'Draft' status
 * Fixed issues of URL generation when invalid characters are in file names
 * Fixed display issues of the search box on the mobile screen
-* Improved the scroll bar synchronising to scroll the web page to bottom when no scroll bar appears in the text editor
+* Improved the scroll bar synchronizing to scroll the web page to bottom when no scroll bar appears in the text editor
 * Improved the single-click on project files to not set focus in the text editor automatically
 * Defaulted the site logo link to 'index.html' and made it editable

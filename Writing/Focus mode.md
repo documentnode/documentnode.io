@@ -1,10 +1,10 @@
-﻿# Focus mode
+# Focus mode
 
 Focus mode in Document Node is an experience where everything fades away. Everything but the sentence you are writing, the thought that you are expressing right now. The focus mode helps you dive into the flow.
 
 Using focus mode in fullscreen cuts out all distractions, including whatever text surrounds your current sentence. (You can also use the modes independently). Scrolling deactivates focus mode automatically until you settle in a different spot.
 
-In typewriter mode, writers can focus on the active typed line in the centre of the page. It places the current input line in the centre of the screen and writers can toggle on/off depending on their activity. That is an optimal ergometric feature for long sessions of writing. Without this feature, the writer is forced to stare at the bottom of the screen.
+In typewriter mode, writers can focus on the active typed line in the centre of the page. It places the current input line in the centre of the screen and writers can toggle on/off depending on their activity. That is an optimal ergonometric feature for long sessions of writing. Without this feature, the writer is forced to stare at the bottom of the screen.
 
 ## Focus mode
 

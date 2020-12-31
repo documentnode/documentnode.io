@@ -1,4 +1,4 @@
-﻿# Overview
+# Overview
 
 Most of us struggle to keep our websites up-to-date. New blog posts, archives, and other documents are hard enough to create without worrying about how you are going to integrate them into your online presence.
 
@@ -28,7 +28,7 @@ One feature that should be extremely useful for documentation writing is the fol
 
 ## Offline site builder
 
-Once the website is ready, you may want to change the top-level menus, background colours, footer links, site logos, creating more custom pages, and so on. Everything like this can be done quickly on the spot, using the offline site builder.
+Once the website is ready, you may want to change the top-level menus, background colors, footer links, site logos, creating more custom pages, and so on. Everything like this can be done quickly on the spot, using the offline site builder.
 
 ![screen-site-toolbar-desc](screen-site-toolbar-desc.png)
 
@@ -37,7 +37,7 @@ The site builder toolbar shown above enables us to switch among a few modes:
 * In `Browsing Mode (ESC)`, everything is the same as your final web site. You can browse different web pages as usual.
 * In `Designing Mode (D)`, we can change the current page layout by adding, updating, or deleting page blocks
 * In `Editing Mode (E)`, we can change texts, links, images
-* In `Styling Mode (S)`, we can change text colours, background, etc.
+* In `Styling Mode (S)`, we can change text colors, background, etc.
 
 As shown above, keyboard shortcuts for different modes are available. Press `ESC` to switch back to the normal browsing mode, and press `D`, `E`, or `S` (if not typing in an input box) to switch to the designing mode, editing mode, or styling mode respectively.
 
@@ -65,6 +65,6 @@ Each time when you change your website, use the same button to publish the diffe
 
 ## Summary
 
-Document Node makes it intuitive for us to create and update any content websites. It leverages the native application performance and instant website generation to maximise your writing productivity.
+Document Node makes it intuitive for us to create and update any content websites. It leverages the native application performance and instant website generation to maximize your writing productivity.
 
 What you see in the current version of Document Node is only the tip of the iceberg of our development road map. Please expect more and more features around writing and publishing to be rolled out gradually.

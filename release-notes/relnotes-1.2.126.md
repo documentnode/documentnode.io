@@ -1,10 +1,10 @@
-﻿# Version 1.2.126 (alpha)
+# Version 1.2.126 (alpha)
 
 ![screen-1](screen-1.2.126.png)
 
 ## Performance of opening big text files
 
-In this version, we optimised the performance of opening big Markdown files, and tested with a big text file, which has:
+In this version, we optimized the performance of opening big Markdown files, and tested with a big text file, which has:
 * 733843 words
 * 4984292 characters
 * 100318 lines

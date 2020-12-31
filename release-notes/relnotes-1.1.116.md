@@ -1,4 +1,4 @@
-﻿# Version 1.1.116 (beta)
+# Version 1.1.116 (beta)
 
 ## Supporting 310 languages for code highlighting
 
@@ -37,7 +37,7 @@ If you are a technical writer, I'm sure you will love it.
 
 ## Improved text size and line length settings
 
-In the 'Preferences' dialogue, we improved the text size and line length settings. Please see the screenshots below.
+In the 'Preferences' dialog, we improved the text size and line length settings. Please see the screenshots below.
 
 ![screen-preferences-text-size](screen-preferences-text-size.png)
 *Text size settings*
@@ -49,9 +49,9 @@ In the 'Preferences' dialogue, we improved the text size and line length setting
 
 In the previous version, reordering can only happen at the same level. In this version, we improved this feature to allow us to move folders/files to an arbitrary location in the projects tree, without any restrictions.
 
-## GFM Tasklist style
+## GFM Task-list style
 
-We improved the GFM (Github Flavoured Markdown) tasklist style in the preview panel and web page.
+We improved the GFM (Github Flavored Markdown) task-list style in the preview panel and web page.
 
 ![screen-gfm-task-list](screen-gfm-task-list.png)
 

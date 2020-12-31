@@ -1,8 +1,8 @@
-﻿# Version 1.3.3 (stable)
+# Version 1.3.3 (stable)
 
 ## Convenient Table Editing
 
-The intention of Markdown is to minimise the formatting burden while writing and keep the content as plaintext for easy to read and share. But, when it comes to tables, things are a bit embarrassing.
+The intention of Markdown is to minimize the formatting burden while writing and keep the content as plaintext for easy to read and share. But, when it comes to tables, things are a bit embarrassing.
 
 In nature, tables are structured into rows and columns and heavily depend on the format to visually present the data. It's hard to manage in plain text. Perhaps that's the reason why the [core CommonMark specification](https://spec.commonmark.org/current/) doesn't include tables at all.
 
@@ -56,6 +56,6 @@ When we checkout a document project from a Git repository, we can specify an `op
 * When dropping files into the Markdown text editor, don't create new files if they already exist
 * Fixed issues of Percent Encoding in `Image Settings` dialogue
 * Improved the logic of differences calculation when publishing
-* Fixed issues when switching the selected lines among `Unordered List`, `Ordered List`, `Blockquote`, and `Task List`.
+* Fixed issues when switching the selected lines among `Unordered List`, `Ordered List`, `Block-quote`, and `Task List`.
 * Added new items: `Unordered List`, `Ordered List`, and `Task List` to the context menu of Markdown editor
 * Improved when to show inline format menu items and when to show paragraph format menu items in the Markdown editor

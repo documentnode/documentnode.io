@@ -1,16 +1,16 @@
-﻿# Preferences
+# Preferences
 
-We can customise Document Node by changing the preferences, which will be remembered even if we restart the application.
+We can customize Document Node by changing the preferences, which will be remembered even if we restart the application.
 
-To open the "**Preferences**" dialogue, select the menu `Document Node` -> `Preferences...` on macOS.
+To open the "**Preferences**" dialog, select the menu `Document Node` -> `Preferences...` on macOS.
 
 ![screen-menu-preferences](screen-menu-preferences.png)
 
-Or, select the menu `File` -> `Preferences...` on Windows and Linux.
+The same dialog is available on Windows and Linux, via the menu `Tools` -> `Options...`.
 
 ## General
 
-On the `General` page of the `Preferences` dialogue, we can change the theme and language of the application.
+On the `General` page of the `Preferences` dialog, we can change the theme and language of the application.
 
 ![screen-prefs-general](screen-prefs-general.png)
 
@@ -55,7 +55,7 @@ If you spot any translation issues, please let us know, and we will fix them imm
 
 ## Editor
 
-On the `Editor` page of the `Preferences` dialogue, we can change the settings of text editors.
+On the `Editor` page of the `Preferences` dialog, we can change the settings of text editors.
 
 ![screen-prefs-editor](screen-prefs-editor.png)
 
@@ -79,21 +79,30 @@ Other text editor settings include:
   * *Typewriter short key press*,
   * or *Off*.
 
+## Spell Checking
+> `Spell Checking` is only available in version `1.4.1+`. If you are using an old version, please upgrade to the latest one.
+
+On the `Spell Checking` page of the `Preferences` dialog, we can configure the behaviors of spell checking, set the default spelling language, and maintain a personal dictionary.
+
+![screen-prefs-spell-checking](screen-prefs-spell-checking.png)
+
+For more information, please see the [Spell Checking](Spell%20Checking.md) page.
+
 ## View
 
-On the `View` page of the `Preferences` dialogue, we can show or hide the editor tab bar, left toolbar, right toolbar, or the bottom toolbar.
+On the `View` page of the `Preferences` dialog, we can show or hide the editor tab bar, left toolbar, right toolbar, or the bottom toolbar.
 
 ![screen-prefs-view](screen-prefs-view.png)
 
 ## Preview
 
-On the `Preview` page of the `Preferences` dialogue, we can specify the global default preview style, and choose to show or hide the top right tool icons on the preview page.
+On the `Preview` page of the `Preferences` dialog, we can specify the global default preview style, and choose to show or hide the top right tool icons on the preview page.
 
 ![screen-prefs-preview](screen-prefs-preview.png)
 
 ## Update
 
-On the `Update` page of the `Preferences` dialogue, we can enable or disable the automatic updates checking. The auto-update is enabled by default, and it's recommended to leave it enabled because we are fixing bugs and adding new features frequently.
+On the `Update` page of the `Preferences` dialog, we can enable or disable the automatic updates checking. The auto-update is enabled by default, and it's recommended to leave it enabled because we are fixing bugs and adding new features frequently.
 
 ![screen-prefs-update](screen-prefs-update.png)
 
@@ -128,7 +137,7 @@ It's recommended to set it to `Hourly` so that the latest fixes can be applied a
 
 ### Check now
 
-To check updates manually, click the `Check Now` button on the `Update` page of the `Preferences` dialogue.
+To check updates manually, click the `Check Now` button on the `Update` page of the `Preferences` dialog.
 
 Alternatively, you can select the menu `Document Node` -> `Check for Updates...` on macOS.
 

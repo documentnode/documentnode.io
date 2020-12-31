@@ -1,4 +1,4 @@
-﻿# Inline styling
+# Inline styling
 
 In addition to changing page layouts and updating page data, with the offline site builder, you can also change the style of your page elements in place.
 
@@ -8,7 +8,7 @@ To enable `Styling Mode`, click the colour palette icon on the site builder tool
 
 ![screenshot-sitebuilder-toolbar-styling](screenshot-sitebuilder-toolbar-styling.png)
 
-In `Styling Mode`, when you move your mouse over an element, if it's stylable, you will see a blue dotted border.
+In `Styling Mode`, when you move your mouse over an element, if it can be styled, you will see a blue dotted border.
 
 ![screen-sitebuilder-stylable-element](screen-sitebuilder-stylable-element.png)
 
@@ -32,12 +32,12 @@ One or more of the following style properties are available in the `Custom Style
 * Min height
 * Max width
 * Max height
-* Text colour
+* Text color
 * Text size
 * Text weight
-* Background colour
+* Background color
 * Background image
-* Overlay colour
+* Overlay color
 * Overlay opacity
 
 More style properties will be added in later releases. Please keep an eye on it.

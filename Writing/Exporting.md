@@ -7,7 +7,7 @@ At the moment, it can convert documents into as multi-page PDF files, single-pag
 
 ## Save document as PDF
 
-### Quicksave as PDF
+### Quick-save as PDF
 
 If you want to save the current document as PDF, press the keyboard shortcut `Command + Shift + S` (`Ctrl + Shift + S` on Windows and Linux), and then you can save the PDF file quickly.
 
@@ -27,10 +27,9 @@ If you choose to not use the preview styles, all headings of the document will b
 
 In the `Save as PDF` settings dialogue, if you select `Mobile` devices and the total number of pages is less than 20, it will be generated as a single page PDF file, which will be very good for reading on mobile devices.
 
-
 ## Save document as a picture
 
-### Quicksave as a picture
+### Quick-save as a picture
 
 If you want to save the current document as picture quickly, press the keyboard shortcut `Command + Shift + P` (`Ctrl + Shift + P` on Windows and Linux), and then you can save the picture file directly.
 
@@ -47,7 +46,7 @@ Give it a filename, choose a location on the disk, choose a target device, and s
 
 ## Save document as HTML
 
-### Quicksave as HTML
+### Quick-save as HTML
 
 If you want to quickly save the current document as an HTML file with all resources embedded, press the keyboard shortcut `Command + Alt + Shift + H` (`Ctrl + Alt + Shift + H` on Windows and Linux), and then you can save the HTML file directly.
 
@@ -63,7 +62,7 @@ Give it a filename, choose a location on the disk, choose a target device, and s
 
 ## Save document as EPUB
 
-### Quicksave as EPUB
+### Quick-save as EPUB
 
 If you want to quickly save the current document as an EPUB file, press the keyboard shortcut `Command + Alt + Shift + E` (`Ctrl + Alt + Shift + E` on Windows and Linux), and then you can save the EPUB file directly.
 

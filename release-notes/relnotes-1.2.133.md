@@ -1,4 +1,4 @@
-﻿# Version 1.2.133 (beta)
+# Version 1.2.133 (beta)
 
 ![screen-splash-vip](screen-splash-vip.png)
 
@@ -16,11 +16,11 @@ Wildcards are supported in file names. Multiple file names should be separated b
 
 All exporting options will be remembered so that next time when we export a project, we can reuse the previous settings.
 
-## Synchronising scroll bar with web page
+## Synchronizing scroll bar with web page
 
 While you are writing at the bottom of your text editor in Document Node, you often want to switch to your web browser and see the current sentence on the page. 
 
-With this new feature of synchronising the scroll bar position between the text editor and the web page, we don't have to scroll to bottom any more manually.
+With this new feature of synchronizing the scroll bar position between the text editor and the web page, we don't have to scroll to bottom any more manually.
 
 ![screencast-sync-scrollbar-with-web](screencast-sync-scrollbar-with-web.gif)
 
@@ -32,7 +32,7 @@ If you are a blogger, you may be glad to see the new 'About me' page block broug
 
 ![screen-page-block-about-me](screen-page-block-about-me.png)
 
-As all page blocks do, this page block is mobile-friendly, and you are free to change the photo, texts, social links, text colours, background colours and more.
+As all page blocks do, this page block is mobile-friendly, and you are free to change the photo, texts, social links, text colors, background colors and more.
 
 ## Miscellaneous improvements & fixes
 

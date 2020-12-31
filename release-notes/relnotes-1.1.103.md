@@ -1,4 +1,4 @@
-﻿# Version 1.1.103 (alpha)
+# Version 1.1.103 (alpha)
 
 ## Generating PDF bookmarks automatically
 
@@ -44,11 +44,11 @@ Current CPU Architecture: x86_64
 * Fixed: ALT+SHIFT+Click on the green "maximize" button on Mac OS should resize the window to the full size of the screen without making the window go "full screen" in a new space
 * Fixed: The cursor should not blink while moving it around with ALT+LEFT/RIGHT or CMD+LEFT/RIGHT
 * Fixed: Should respond to standard Mac OS editing commands like ALT+BACKSPACE (delete word) and CMD+BACKSPACE (delete line)
-* Fixed: The colour of the list item bullet was black in the preview, but it should be something with better contrast (also, the padding could be increased between the list item icon and the text)
+* Fixed: The color of the list item bullet was black in the preview, but it should be something with better contrast (also, the padding could be increased between the list item icon and the text)
 * Added tooltips to the buttons at the top right corner, so we move the mouse over them it will show what they do
 * Fixed: After pasting text, should scroll the cursor to be visible
 * Improved interactions on documentation web pages
 * Improved the preview to render soft line breaks as hard line breaks by default
 * Updated Danish translations
 * Improved the toolbar of the site builder: when the mode is changed, show a notification message to tell users what can be done
-* Fixed problems when maximising the application Window on Windows 10
+* Fixed problems when maximizing the application Window on Windows 10

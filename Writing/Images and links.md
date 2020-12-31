@@ -1,4 +1,4 @@
-﻿# Images and links
+# Images and links
 
 Images perhaps are one of the most frequently used resources when it comes to writing blogs or documentation. Being able to insert pictures quickly into your document is essential in terms of productivity.
 
@@ -66,7 +66,7 @@ When taking a screenshot, we can accurately see which pixel we are on from a sma
 
 Once a region is selected, double-click the selected area or click the "**OK**" button to insert the screenshot picture into your document.
 
-Before selecting a region, right-click to copy the colour values of the pixel under the mouse to your clipboard. For example:
+Before selecting a region, right-click to copy the color values of the pixel under the mouse to your clipboard. For example:
 
 ```
 #FAFAFA rgb(250,250,250)
