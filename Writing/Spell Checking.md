@@ -32,7 +32,7 @@ You can change the default spelling language from the application menu `Tools` -
 
 ![screen-spelling-set-language-dialog](screen-spelling-set-language-dialog.png)
 
-Alternatively, you can configure a different language from the `Preferences` dialog (`Options` on Windows and Linux). Please go to `Preferences` -> `Spell Checking` (or `Tools` -> `Options...` -> `Spell Checking` on Windows and Linux), and select a new one.
+Alternatively, you can configure a different language from the `Preferences` dialog (`Options` on Windows and Linux). Please go to `Preferences...` -> `Spell Checking` (or `Tools` -> `Options...` -> `Spell Checking` on Windows and Linux), and select a new one.
 
 ![screen-spell-checking-preferences](screen-spell-checking-preferences.png)
 
