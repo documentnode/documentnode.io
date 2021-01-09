@@ -1,8 +1,10 @@
 # Version 1.4.1 (stable)
 
+![screen-prefs-spell-checking](screen-prefs-spell-checking.png)
+
 ## Spell Checking
 
-Finally, we've added the feature of spell checking in Document Node in this version. It's essential to assist your productive writing.
+We've finally added the feature of spell checking in Document Node in this version. It's essential to assist your productive writing.
 
 ![screen-spell-checking-dialog](screen-spell-checking-dialog.png)
 
