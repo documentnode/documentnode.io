@@ -1,4 +1,4 @@
-﻿# Inline editing
+# Inline editing
 
 Instead of using a complex admin UI to configure the page data, inline editing is the most straightforward way to go. When you spot something you want to change, just click and modify it. No need to jump to a different place.
 
@@ -13,6 +13,7 @@ Enable `Editing Mode` from the site builder toolbar, then we can edit the page d
 In `Editing Mode`, when you move your mouse over an element, if it's editable, you will see a blue dotted border.
 
 ![screen-sitebuilder-editable-element](screen-sitebuilder-editable-element.png)
+
 
 ## Normal text
 
@@ -29,6 +30,7 @@ To edit an image, click on it and the `Image Properties Editor` will popup.
 From there, we can change the image source and alternative text.
 
 It's also possible to remove the image from the `Image Properties Editor` by setting the image source to `none`. If we change our mind, we can bring back the default image by clicking the page block and select the `Reset Empty Properties` menu.
+
 
 ## Links editor
 

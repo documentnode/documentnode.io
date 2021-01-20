@@ -1,4 +1,4 @@
-﻿# Projects
+# Projects
 
 As we have mentioned in the [Quickstart](../Quickstart.md) guide, a project is simply a folder which contains documents and relevant resources, such as icons, images, and whatever files needed in a website.
 
@@ -27,6 +27,7 @@ The "New Writing Project" dialogue will open then you can specify a name and loc
 ![screen-create-empty-project](screen-create-empty-project.png)
 
 The project folder is the place where all relevant documents will be put into. While you are typing the project name, the project folder will be determined automatically, and by default, it's located in your home folder. If you wish, you can choose a different location. A new project folder will be created on your disk.
+
 
 ### Open project
 

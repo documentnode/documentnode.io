@@ -79,6 +79,16 @@ Other text editor settings include:
   * *Typewriter short key press*,
   * or *Off*.
 
+### Markdown
+
+> `Markdown Theme Editing` is only available in version `1.4.3+`. If you are using an old version, please upgrade to the latest one.
+
+Document Node provides a few built-in Markdown themes for both the dark mode and light mode. According to the current GUI appearance, we can choose to auto-switch between the dark and light modes or always use a Dark/Light theme.
+
+![screen-preferences-markdown-theme-edit](screen-preferences-markdown-theme-edit.png)
+
+We can create a new Markdown theme by duplicating a built-in one and edit the colors in it.
+
 ## Spell Checking
 > `Spell Checking` is only available in version `1.4.1+`. If you are using an old version, please upgrade to the latest one.
 
