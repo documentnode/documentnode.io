@@ -59,9 +59,17 @@ When you open the "Preview" pane on the right side, you can see what your Markdo
 
 Changes will be synchronized to the preview pane automatically. Scrolling in the Markdown editor will scroll on the preview pane at the same time.
 
-Clicking the PDF icon on the header of the preview pane, we can quickly export the current document as a PDF file.
+Right-click on the page, we can quickly export the current document as multiple formats, such as PDF, Picture, HTML, and EPUB.
 
-## Synchronizing scroll bar
+### Smart scroll bar sync with preview
+
+When a document becomes longer, the contents of the text editor and the preview area can still match well, thanks to our smart algorithm based on the currently visible section.
+
+It's a very pleasant experience when you scroll the text editor and preview at the same time.
+
+## Synchronizing scroll bar with web page
+
+If you are running a document as a web page in your web browser, the scroll bars are synchronized automatically.
 
 While you are writing at the bottom of your text editor in Document Node, you often want to switch to your web browser and see the current sentence on the page. 
 
@@ -86,7 +94,65 @@ That is, without any other plugins or configurations, by only using Document Nod
 
 When you start typing the code block language, there will be auto-complete available. As references, please see below for a complete list of supported languages.
 
-> 4dos, abap, abc, actionscript, ada, adblock, agda, ahdl, ahk, alert, ample, ansforth94, ansic89, ansys, apache, apparmor, asciidoc, asm-avr, asm-dsp56k, asm-m68k, asm6502, asn1, asp, awk, bash, bibtex, bitbake, bmethod, boo, brightscript, c, carto-css, ccss, cg, cgis, changelog, chicken, cil, cisco, clipper, clist, clojure, cmake, coffee, coldfusion, commonlisp, component-pascal, context, cpp, crk, cs, css, cubescript, cue, curry, d, debianchangelog, debiancontrol, desktop, diff, djangotemplate, dockerfile, dosbat, dot, doxyfile, doxygen, doxygenlua, dtd, e, eiffel, elixir, elm, email, erlang, euphoria, fasm, fastq, ferite, fgl-4gl, fgl-per, fish, flatbuffers, fortran, freebasic, fsharp, fstab, ftl, gap, gcc, gcode, gdb, gdb-bt, gdbinit, gdl, gettext, git-ignore, git-rebase, gitolite, glosstex, glsl, gnuassembler, gnuplot, go, grammar, groovy, haml, hamlet, haskell, haxe, html, hunspell-aff, hunspell-dat, hunspell-dic, hunspell-idx, idconsole, idl, ilerpg, inform, ini, intelhex, isocpp, j, jam, java, javadoc, javascript, javascript-react, jcl, jira, json, jsp, julia, k, kbasic, kconfig, kdesrc-buildrc, kotlin, latex, ld, ldif, less, lex, lilypond, literate-curry, literate-haskell, logcat, logtalk, lpc, lsl, lua, m3u, m4, mab, magma, makefile, mako, mandoc, markdown, mason, mathematica, matlab, maxima, mediawiki, mel, mergetagtext, meson, metafont, metamath, mib, mips, modelica, modelines, modula-2, modula-2-iso-only, modula-2-pim-only, modula-2-r10-only, monobasic, mup, mustache, nagios, nasm, nemerle, nesc, ninja, noweb, nsis, objectivec, objectivecpp, ocaml, ocamllex, ocamlyacc, octave, oors, opal, opencl, openscad, pango, pascal, perl, pgn, php, picsrc, pig, pike, pli, ply, pony, postscript, povray, powershell, ppd, praat, progress, prolog, protobuf, pug, puppet, purebasic, python, q, qdocconf, qmake, qml, r, rapidq, rdoc, relaxng, relaxngcompact, replicode, rest, rexx, rhtml, rib, rmarkdown, roff, rpmspec, rsiidl, rtf, ruby, rust, sather, scala, scheme, sci, scss, sed, selinux, selinux-cil, selinux-fc, sgml, sieve, sisu, smali, sml, spice, sql, sql-mysql, sql-oracle, sql-postgresql, stan, stata, stl, systemc, systemverilog, tads3, taskjuggler, tcl, tcsh, template-toolkit, texinfo, textile, tibasic, tiger, toml, txt2tags, typescript, typescript-react, uscript, vala, valgrind-suppression, varnish, varnish4, varnishcc, varnishcc4, varnishtest, varnishtest4, vcard, velocity, vera, verilog, vhdl, vrml, wavefront-obj, wayland-trace, winehq, wml, xharbour, xml, xmldebug, xonotic-console, xorg, xslt, xul, yacas, yacc, yaml, yang, zonnon, zsh
+> 4dos, abap, abc, actionscript, ada, adblock, 
+> agda, ahdl, ahk, alert, ample, ansforth94, 
+> ansic89, ansys, apache, apparmor, asciidoc, 
+> asm-avr, asm-dsp56k, asm-m68k, asm6502, 
+> asn1, asp, awk, bash, bibtex, bitbake, 
+> bmethod, boo, brightscript, c, carto-css, 
+> ccss, cg, cgis, changelog, chicken, cil, 
+> cisco, clipper, clist, clojure, cmake, coffee, 
+> coldfusion, commonlisp, component-pascal, 
+> context, cpp, crk, cs, css, cubescript, cue, 
+> curry, d, debianchangelog, debiancontrol, 
+> desktop, diff, djangotemplate, dockerfile, 
+> dosbat, dot, doxyfile, doxygen, doxygenlua, 
+> dtd, e, eiffel, elixir, elm, email, erlang, 
+> euphoria, fasm, fastq, ferite, fgl-4gl, 
+> fgl-per, fish, flatbuffers, fortran, freebasic, 
+> fsharp, fstab, ftl, gap, gcc, gcode, gdb, 
+> gdb-bt, gdbinit, gdl, gettext, git-ignore, 
+> git-rebase, gitolite, glosstex, glsl, 
+> gnuassembler, gnuplot, go, grammar, groovy, 
+> haml, hamlet, haskell, haxe, html, 
+> hunspell-aff, hunspell-dat, hunspell-dic, 
+> hunspell-idx, idconsole, idl, ilerpg, inform, 
+> ini, intelhex, isocpp, j, jam, java, javadoc, 
+> javascript, javascript-react, jcl, jira, json, 
+> jsp, julia, k, kbasic, kconfig, kdesrc-buildrc, 
+> kotlin, latex, ld, ldif, less, lex, lilypond, 
+> literate-curry, literate-haskell, logcat, logtalk, 
+> lpc, lsl, lua, m3u, m4, mab, magma, makefile, 
+> mako, mandoc, markdown, mason, mathematica, 
+> matlab, maxima, mediawiki, mel, mergetagtext, 
+> meson, metafont, metamath, mib, mips, 
+> modelica, modelines, modula-2, 
+> modula-2-iso-only, modula-2-pim-only, 
+> modula-2-r10-only, monobasic, mup, mustache, 
+> nagios, nasm, nemerle, nesc, ninja, noweb, 
+> nsis, objectivec, objectivecpp, ocaml, ocamllex, 
+> ocamlyacc, octave, oors, opal, opencl, openscad, 
+> pango, pascal, perl, pgn, php, picsrc, pig, pike, 
+> pli, ply, pony, postscript, povray, powershell, 
+> ppd, praat, progress, prolog, protobuf, pug, 
+> puppet, purebasic, python, q, qdocconf, qmake, 
+> qml, r, rapidq, rdoc, relaxng, relaxngcompact, 
+> replicode, rest, rexx, rhtml, rib, rmarkdown, 
+> roff, rpmspec, rsiidl, rtf, ruby, rust, sather, 
+> scala, scheme, sci, scss, sed, selinux, 
+> selinux-cil, selinux-fc, sgml, sieve, sisu, 
+> smali, sml, spice, sql, sql-mysql, sql-oracle, 
+> sql-postgresql, stan, stata, stl, systemc, 
+> systemverilog, tads3, taskjuggler, tcl, tcsh, 
+> template-toolkit, texinfo, textile, tibasic, 
+> tiger, toml, txt2tags, typescript, 
+> typescript-react, uscript, vala, 
+> valgrind-suppression, varnish, varnish4, 
+> varnishcc, varnishcc4, varnishtest, varnishtest4, 
+> vcard, velocity, vera, verilog, vhdl, vrml, 
+> wavefront-obj, wayland-trace, winehq, wml, 
+> xharbour, xml, xmldebug, xonotic-console, xorg, 
+> xslt, xul, yacas, yacc, yaml, yang, zonnon, zsh
 
 ## Markdown Editor Theme
 
