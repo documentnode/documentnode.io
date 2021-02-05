@@ -16,6 +16,12 @@ Now, you can view or refine your article structure in the mind map.
 
 If you get used to keyboard shortcuts, you can use the `Cmd+Shift+Return` (`Ctrl+Shift+Return` on Windows and Linux) hotkey to quickly switch between the **Mind Map view** and **Document view**.
 
+## Arbitrary Levels
+
+Both the headings and bullet list items will be treated as Mind Map nodes, which enables us to have arbitrary levels of nodes in a Mind Map.
+
+Of course, you can choose to only use headings or bullet list items in your document as a way to create Mind Map in an open format.
+
 ## Edit the Mind Map topics
 
 Keyboards shortcuts are ready to serve you at any moment. Press the "**Tab**" key to create a new child topic, pressing the "**Enter**" key to create a new sibling topic, and press the "**Delete**" key to delete the currently selected node.
@@ -32,7 +38,6 @@ All the actions are available in the context menu as well.
 
 Select a Mind Map topic first, and then right-click on it to show the context menu.
 
-
 ## Reorder Mind Map via Drag-and-drop
 
 We can drag and drop nodes around using our mouse in a Mind Map.
@@ -40,7 +45,6 @@ We can drag and drop nodes around using our mouse in a Mind Map.
 ![screencast-mindmap-drop-and-drop](screencast-mindmap-drop-and-drop.gif)
 
 It becomes so easy to change the structure of a document, no matter whether it's a Markdown or Rich Text file because both formats can have a beautiful Mind Map view.
-
 
 ## Document Editor Popup in Mind Map
 
@@ -97,7 +101,6 @@ It's also quick and easy to collapse or expand all Mind Map nodes from the two n
 From the toolbar, we can zoom in or zoom out the Mind Map viewport. When choosing the "Hand" toolbar icon, we can drag the Mind Map canvas around, which is helpful when there are many topics that cannot be fit in the viewport.
 
 Hold on the "**Space**" key then you can drag the Mind Map canvas around. Release the "**Space**" key, it will go back to the normal selection mode.
-
 
 ## Share Your Mind Map
 

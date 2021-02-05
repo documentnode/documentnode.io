@@ -28,7 +28,6 @@ The "New Writing Project" dialogue will open then you can specify a name and loc
 
 The project folder is the place where all relevant documents will be put into. While you are typing the project name, the project folder will be determined automatically, and by default, it's located in your home folder. If you wish, you can choose a different location. A new project folder will be created on your disk.
 
-
 ### Open project
 
 Any document folders on your disk can be opened as projects in Document Node. To open a project folder, select menu `File` -> `Open Project`, or use the keyboard shortcut `Cmd+Shift+O` on macOS (`Ctrl+Shift+O` on Windows and Linux).

@@ -159,3 +159,4 @@ When you start typing the code block language, there will be auto-complete avail
 Document Node provides a few built-in Markdown themes for both the dark mode and light mode.
 
 The background of the Markdown editor and other text colors can also be fully customized in [Preferences](Preferences.md).
+
