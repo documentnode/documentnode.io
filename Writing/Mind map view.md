@@ -68,9 +68,7 @@ From the toolbar, we can quickly change the Mind Map theme for a document from t
 
 We believe that when we concentrate on the content, we shouldn't care about the styles and themes. Unlike most of the Mind Map software, themes can be managed separately in Document Node, instead of allowing users to change style properties of each node.
 
-It's never been easier to create a new Mind Map in Document Node. We just need to change a few properties in a small JSON file. Please the demonstration below.
-
-<iframe src="https://player.vimeo.com/video/421770698?autoplay=1&loop=1&autopause=0&muted=1" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+It's never been easier to create a new Mind Map theme in Document Node. We just need to change a few properties in a small JSON file.
 
 ## Change the Mind Map layout
 
