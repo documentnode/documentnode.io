@@ -100,7 +100,7 @@ From the toolbar, we can zoom in or zoom out the Mind Map viewport. When choosin
 
 Hold on the "**Space**" key then you can drag the Mind Map canvas around. Release the "**Space**" key, it will go back to the normal selection mode.
 
-## Share Your Mind Map
+## Export Your Mind Map
 
 Click the "Share" button on the toolbar, or select sharing options from the context menu, we can export the Mind Map into different formats.
 
@@ -113,3 +113,7 @@ At the moment, the following formats are supported:
 * SVG
 
 More formats and sharable URLs will be supported shortly.
+
+## Shareable Secret Links
+
+Click the "Shareable Link" icon on the Mind Map toolbar, we can get a secret link so that you can share your Mind Map to others.

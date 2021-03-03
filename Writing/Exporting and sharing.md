@@ -1,4 +1,4 @@
-# Exporting
+# Exporting and sharing
 
 Exporting your documents or projects is an essential step so that you can deliver the most appropriate format to your readers. One of the goals of Document Node is to make it extremely easy to convert your documents into different formats.
 
@@ -84,6 +84,18 @@ Fill in details of the EPUB file in the "Save Document As" dialogue.
 Once the EPUB file is created, you can open it using any EPUB readers on your devices.
 
 ![screen-exported-epub-preview](screen-exported-epub-preview.png)
+
+## Shareable secret links
+
+You can share documents quickly with others by using a shareable secret link.
+
+![shareable-link-icon-on-doc-right-toolbar](shareable-link-icon-on-doc-right-toolbar.jpg)
+
+Click the "Shareable Link" icon from the top right corner of the text editor to generate a shareable secret link.
+
+![screen-shareable-link-dialog](screen-shareable-link-dialog.png)
+
+The link can be shared through multiple channels via a simply click.
 
 ## Export project as PDF files
 
