@@ -4,7 +4,6 @@ Exporting your documents or projects is an essential step so that you can delive
 
 At the moment, it can convert documents into as multi-page PDF files, single-page pictures, single-page PDF files for mobile devices, HTML files with all resources embedded, and EPUB files. It can also export a writing project to a website, PDF files, HTML files, or an EPUB file at one time. More exporting formats will be developed gradually, please keep an eye on it.
 
-
 ## Save document as PDF
 
 ### Quick-save as PDF
@@ -42,7 +41,6 @@ Your document content with a beautiful preview style can be saved as a single pa
 ![Save as Picture for tablet and mobile](screen-1.3-picture-tablet-mobile.png)
 
 Give it a filename, choose a location on the disk, choose a target device, and set margins, you will get your single-page picture exported right away. Next time when you want to do quick export, the same settings will be applied. Just press `Command + Shift + P` on macOS (`Ctrl + Shift + P` on Windows and Linux), and then press `Enter` key. It will be done within one second.
-
 
 ## Save document as HTML
 
@@ -84,6 +82,27 @@ Fill in details of the EPUB file in the "Save Document As" dialogue.
 Once the EPUB file is created, you can open it using any EPUB readers on your devices.
 
 ![screen-exported-epub-preview](screen-exported-epub-preview.png)
+
+## Save document as DOCX
+
+> `Exporting as DOCX` is available since version `1.4.5`. If you are using an old version, please upgrade to the latest one.
+
+### Quick-save as DOCX
+
+If you want to quickly save the current document as an DOCX file, press the keyboard shortcut `Command + Shift + D` (`Ctrl + Shift + D` on Windows and Linux), and then you can save the DOCX file directly.
+
+Or select menu `File` -> `Save as DOCX`, it will do the same quick export as well.
+
+### Save as DOCX options
+
+Fill in details of the DOCX file in the "Save Document As" dialogue.
+
+* Filename: The DOCX file name
+* Save location: The directory where the DOCX file should be saved
+
+![screen-exporting-documents-as-docx](screen-exporting-documents-as-docx.png)
+
+Once the DOCX file is created, you can open it using any DOCX readers on your devices.
 
 ## Shareable secret links
 
@@ -149,6 +168,16 @@ And then, fill in the details of the EPUB file.
 
 If you want to open the EPUB file after exporting, please tick the "**Open the EPUB file after exporting**" checkbox.
 
+## Export project as DOCX
+
+If you want to export all documents of a project as a single EPUB file, click the "**Export project**" icon on the top right toolbar, and then select the "**Epub**" tab.
+
+![screen-export-project-as-epub](screen-export-project-as-epub.png)
+
+And then, fill in the details of the EPUB file.
+
+If you want to open the EPUB file after exporting, please tick the "**Open the EPUB file after exporting**" checkbox.
+
 ## Export project as a website
 
 If you want to export the current project as one or more PDF files, click the "**Export project**" icon on the top right toolbar.
@@ -166,3 +195,4 @@ Be aware that if you have ticked the "**Clean output folder before export**" che
 You can add folder/file names to "**Files to keep**" text box, separated by commas. Wildcards can be used.
 
 If you want to open the "**index.html**" of your website after exporting, please tick the "**Open index.html after exporting**" checkbox.
+
