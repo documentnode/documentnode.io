@@ -1,4 +1,4 @@
-﻿# Document files
+# Document files
 
 In most cases, the purpose of writing is for someone else to read. Eliminating any steps between writing and publishing means improving productivity.
 
@@ -76,3 +76,25 @@ You can drag folders or files to reorder inside the same directory or drag into 
 To open a recent document file, select the menu `File` -> `Recent Files` -> `[File Path]`.
 
 Select `Clear Menu` to remove all the recent file items from the menu.
+
+## Go back/forward
+
+> `Go back/forward` is only available in version `1.4.7` or later. If you are using an old version, please upgrade to the latest one.
+
+When working on multiple documents at the same time, we often want to go back to the previous editing locations. Going back or forward allows us to manage our writing flow easily.
+
+There are two buttons (`Go back` and `Go forward`) on the main toolbar. By clicking these buttons we can go back/forward among the editing locations. The corresponding shortcuts are `Cmd + Alt + Left / Right` on macOS, and `Ctrl + Alt + Left / Right` on Windows and Linux.
+
+The history of editing locations is saved on disk, which means when we restart the application, the history of editing locations is still available.
+
+## Edit in new window
+
+> `Edit in new window` is only available in version `1.4.7` or later. If you are using an old version, please upgrade to the latest one.
+
+Using separate windows makes it easy to edit one document from another, or when you want to view other part of the document you are working on.
+
+For example, when you summarize what you have written, you would definitely like to see what you have already written earlier, which is located above or below the current text cursor.
+
+![screen-open-in-new-window](screen-open-in-new-window.png)
+
+You can open as many new document windows as you like.
