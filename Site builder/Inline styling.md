@@ -1,5 +1,7 @@
 # Inline styling
 
+#Site/Builder 
+
 In addition to changing page layouts and updating page data, with the offline site builder, you can also change the style of your page elements in place.
 
 ## Enable styling

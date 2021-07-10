@@ -1,4 +1,6 @@
-﻿# Document outline
+# Document outline
+
+#Outline
 
 Usually, the headings of a document represent the logical structure of your writing. From which, readers can gain an overview of the article quickly. On the generated web page, the headings will be converted to a Table of Contents. If you export a document as a PDF file, the headings outline will end up in bookmarks.
 

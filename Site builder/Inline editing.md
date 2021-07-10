@@ -1,5 +1,7 @@
 # Inline editing
 
+#Site/Builder
+
 Instead of using a complex admin UI to configure the page data, inline editing is the most straightforward way to go. When you spot something you want to change, just click and modify it. No need to jump to a different place.
 
 ![inline-editing-demo](https://blog.documentnode.io/inline-editing-demo.gif)

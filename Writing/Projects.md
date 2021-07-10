@@ -1,5 +1,7 @@
 # Projects
 
+#Projects #Restructuring #Projects/File status# #Navigation/Filters
+
 As we have mentioned in the [Quickstart](../Quickstart.md) guide, a project is simply a folder which contains documents and relevant resources, such as icons, images, and whatever files needed in a website.
 
 This page lists the details of how to manage projects in Document Node, which should be straightforward.
@@ -86,7 +88,7 @@ When clicking on the project title, we can choose what to show in a dropdown pop
 
 We can also use the filter icon to toggle between "**Document files**" and "**All files**".
 
-## Refactoring
+## Restructuring
 
 One of the most powerful features of Document Node is the direct mapping between the documents folder structure and the website structure. For example, you don't have to configure the navigation menu of your documentation site manually, because it can be generated from your folder structure automatically.
 

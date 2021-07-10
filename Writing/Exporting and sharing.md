@@ -1,5 +1,7 @@
 # Exporting and sharing
 
+#Exporting #Shareable link# #Exporting/EPUB #Exporting/PDF #Exporting/DOCX
+
 Exporting your documents or projects is an essential step so that you can deliver the most appropriate format to your readers. One of the goals of Document Node is to make it extremely easy to convert your documents into different formats.
 
 At the moment, it can convert documents into as multi-page PDF files, single-page pictures, single-page PDF files for mobile devices, HTML files with all resources embedded, and EPUB files. It can also export a writing project to a website, PDF files, HTML files, or an EPUB file at one time. More exporting formats will be developed gradually, please keep an eye on it.

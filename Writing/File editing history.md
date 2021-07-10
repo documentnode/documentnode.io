@@ -1,5 +1,7 @@
 # File editing history
 
+#File history# #Revision
+
 Have you ever tried to find an old revision of your document? It's extremely useful if we have the full editing history of documents. By navigating to different file revisions created at different times, we can explore how our thoughts have changed.
 
 Besides, full editing history is also a great backup.

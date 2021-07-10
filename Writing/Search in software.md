@@ -1,4 +1,6 @@
-﻿# Search in software
+# Search in software
+
+#Navigation/Full-text search# #Navigation/Quick open#
 
 > `Full-text search` and `Quick Open` is only available in version `1.3.17+`. If you are using an old version, please upgrade to the latest one.
 

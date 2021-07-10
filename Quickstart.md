@@ -1,5 +1,7 @@
 # Quick-start
 
+#Installation #Auto-update
+
 Document Node simplifies the process from writing to publishing. Unlike all existing solutions available on the market, Document Node allows you to concentrate on your content from the beginning, and get a beautiful website, as well as other formats like PDF or eBook and so on, automatically from your document folder.
 
 ## Installing Document Node
@@ -69,7 +71,7 @@ Once you have finished writing and are ready to deliver to your readers, you can
 
 The clean website exported is ready to be uploaded to any third-party static site hosting services. And the PDF files with bookmarks are ready to be sent to your audience.
 
-For more information, please see the [Exporting](Writing/Exporting.md) page.
+For more information, please see the [Exporting and sharing](Writing/Exporting%20and%20sharing.md) page.
 
 ## Auto-update
 

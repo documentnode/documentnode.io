@@ -1,5 +1,7 @@
 # Rich text editor
 
+#Rich Text# #Editor/Insert images# #Editor/Insert tables#
+
 Sometimes, the Rich Text editor may be a better choice for writing. For example, when we edit a table directly without using the plaintext table syntax, or to have a two-column text block.
 
 Any document files with the `*.rtxt` file extension will be opened in the Rich Text editor.

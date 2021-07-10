@@ -1,5 +1,6 @@
-﻿# Custom domain
+# Custom domain
 
+#Site/Publishing
 For the custom domain to work with Document Node hosting, please add the following DNS record with your domain registrar: 
 
 |  Type  |  Name  |  Value |

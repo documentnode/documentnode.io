@@ -1,5 +1,7 @@
 # Spell checking
 
+#Editor/Spell checking#
+
 Spell checking is essential to any writing application. Document Node has built-in support for more than 10 popular languages on all platforms including macOS, Windows, and Linux. There are even more languages are supported on macOS.
 
 > `Spell checking` is only available in version `1.4.1+`. If you are using an old version, please upgrade to the latest one.

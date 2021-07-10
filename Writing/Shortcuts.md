@@ -1,4 +1,6 @@
-﻿# Shortcuts
+# Shortcuts
+
+#Shortcuts #Editor #Editor/Focus mode# #Outline 
 
 Using keyboard shortcuts can improve our productivity significantly if we can remember them. Document Node tries to leverage as many standard shortcuts as possible.
 

@@ -1,4 +1,6 @@
-﻿# Site settings
+# Site settings
+
+#Site/Builder 
 
 To change global site settings, click the "**site settings**" button from the site builder toolbar.
 

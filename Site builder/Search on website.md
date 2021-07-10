@@ -1,5 +1,7 @@
 # Search on website
 
+#Navigation/Full-text search# 
+
 The websites exported from Document Node have full-text search-ability built-in. It works out of the box without any configuration.
 
 From any one of the web pages, double-tap `Shift` key, the search box will popup. Type any keywords as you like, and use `Up` or `Down` key to select a result, then press `Enter` key to open the selected result page.

@@ -1,5 +1,7 @@
 # Images and links
 
+#Editor/Insert images# #Editor/Insert links# #Editor/Screenshots
+
 Images perhaps are one of the most frequently used resources when it comes to writing blogs or documentation. Being able to insert pictures quickly into your document is essential in terms of productivity.
 
 Adding links into a document is a common requirement too. For example, in a documentation site, it's helpful to link different pages together as cross-references.
@@ -69,7 +71,7 @@ Once a region is selected, double-click the selected area or click the "**OK**" 
 Before selecting a region, right-click to copy the color values of the pixel under the mouse to your clipboard. For example:
 
 ```
-#FAFAFA rgb(250,250,250)
+"#FAFAFA rgb(250,250,250)"
 ```
 
 And then you can paste elsewhere.

@@ -1,5 +1,7 @@
 # Find and replace
 
+#Shortcuts #Editor/Find-replace
+
 We often need to find or replace text in a text editor. In Document Node, the "**Find/Replace**" feature is available for both the Markdown editor and Rich Text editor.
 
 ![screen-1](screen-1.3-find-replace.png)

@@ -1,5 +1,7 @@
 # Preferences
 
+#Preferences #Preferences/Custom theme# #Preferences/Appearance #Preferences/Language #Backup #Auto-update #Markdown #Editor/Spell checking# 
+
 We can customize Document Node by changing the preferences, which will be remembered even if we restart the application.
 
 To open the "**Preferences**" dialog, select the menu `Document Node` -> `Preferences...` on macOS.

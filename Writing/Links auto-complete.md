@@ -1,5 +1,7 @@
 # Links auto-complete
 
+#Editor/Auto-complete #Navigation/Jump links# #Navigation/Internal links#
+
 Interconnection of knowledge within a document and between multiple documents is a key to efficiently building a knowledge base or other writing projects.
 
 Document Node supports **jump links** and **internal links** very well. We will continue polishing and adding more powerful tools around the interconnection of knowledge.

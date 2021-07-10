@@ -1,5 +1,7 @@
 # Mind map view
 
+#Mind map# #Restructuring #Markdown #Rich Text# #Preferences/Custom theme# #Shareable link#
+
 A mind map represents ideas and concepts in a simple graphical way that resembles much more closely how your brain works. It maps your mind.
 
 It helps you structure information, better analyze and generate new ideas. Mind mapping avoids linear thinking and boosts your creativity. Best of all, it's straightforward and fun!

@@ -1,5 +1,8 @@
 # Markdown editor
 
+#Markdown #Markdown/CommonMark #Markdown/Table-editing #Preview #Editor/Syntax highlighting# #Preferences/Custom theme#
+#Markdown/GFM
+
 ## What is Markdown?
 
 It's a plain text format for writing structured documents, based on formatting conventions from email and Usenet.

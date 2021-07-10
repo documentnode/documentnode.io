@@ -1,5 +1,7 @@
 # Focus mode
 
+#Editor/Distraction-free #Editor/Focus mode# 
+
 Focus mode in Document Node is an experience where everything fades away. Everything but the sentence you are writing, the thought that you are expressing right now. The focus mode helps you dive into the flow.
 
 Using focus mode in fullscreen cuts out all distractions, including whatever text surrounds your current sentence. (You can also use the modes independently). Scrolling deactivates focus mode automatically until you settle in a different spot.

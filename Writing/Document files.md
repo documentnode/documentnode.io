@@ -1,5 +1,7 @@
 # Document files
 
+#Markdown #Rich Text# #Navigation
+
 In most cases, the purpose of writing is for someone else to read. Eliminating any steps between writing and publishing means improving productivity.
 
 Document Node converts document files into standard readable formats automatically out of the box. It enables us to concentrate on content creation, not worrying about web server setup, site generating and so on.
